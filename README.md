@@ -1,1 +1,1 @@
-# PAL
+# PAL-FL (Private and Adversarial Federated Learning)
